@@ -1,4 +1,5 @@
 require 'semantic/datepicker/rails/version'
+require 'momentjs-rails'
 
 module Semantic
   module Datepicker
