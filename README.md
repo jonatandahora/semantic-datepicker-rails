@@ -13,6 +13,14 @@ gem 'semantic-datepicker-rails'
 
 ```
 
+Add the following directive to your Javascript manifest file (application.js):
+
+```
+//= require semantic-datepicker
+
+```
+
+
 ### Dependencies
 This component relies on [Semantic-UI](http://semantic-ui.com), [Moment.js](http://momentjs.com/) and [jQuery](http://jquery.com/).
 ```
